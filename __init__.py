@@ -67,6 +67,10 @@ def __validate__(mth : str) -> str:
   # add missing * before ( or after )
   j = 1
   operators = ['+','-','*','/', '^']
+
+  if len(mth.strip()) == 1:
+    return mth
+
   while(True):
     if j == len(mth)-1:
       break

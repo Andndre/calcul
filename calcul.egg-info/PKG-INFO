@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: calcul
-Version: 0.0.1
+Version: 0.0.2
 Summary: Calculator that takes a string as input
 Home-page: UNKNOWN
 Author: AgungAndre
@@ -24,5 +24,9 @@ Change Log
 0.0.1 (01/03/2022)
 ------------------
 - First release
+
+0.0.2 (01/03/2022)
+------------------
+- Fix IndexError when the input has only one digit
 
 

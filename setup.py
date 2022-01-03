@@ -10,7 +10,7 @@ classifiers = [
 
 setup(
   name='calcul',
-  version='0.0.1',
+  version='0.0.2',
   description='Calculator that takes a string as input',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',
