@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: calcul
+Version: 0.0.1
+Summary: Calculator that takes a string as input
+Home-page: UNKNOWN
+Author: AgungAndre
+Author-email: agungandre687@gmail.com
+License: MIT
+Keywords: calculator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+Calculator that takes a string as input
+
+
+Change Log
+==========
+
+0.0.1 (01/03/2022)
+------------------
+- First release
+
+
